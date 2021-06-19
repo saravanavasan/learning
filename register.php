@@ -1,0 +1,4 @@
+<div>
+	REgister Form
+
+</div>
